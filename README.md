@@ -1,6 +1,6 @@
 
 # Recursividate no elixir
-<div style="text-align:center; height: 100px; width: auto">
+<div style="text-align: center; height: 100px; width: auto;">
 <a href="https://elixir-lang.org">
     <img src="https://c0.klipartz.com/pngpicture/870/337/gratis-png-elixir-lenguaje-de-programacion-funcional-de-programacion-erlang-logo-de-meetup.png" alt="logo elixir" title="elixir"/>
 </a>
