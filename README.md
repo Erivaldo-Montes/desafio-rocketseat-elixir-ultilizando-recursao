@@ -1,8 +1,8 @@
 
 # Recursividate no elixir
-<div style="text-align: center; height: 100px; width: auto;">
+<div style="text-align: center;">
 <a href="https://elixir-lang.org">
-    <img src="./assets/elixir-icon.png" alt="logo elixir" title="elixir"/>
+    <img style="height: 100px; width: auto;" src="./assets/elixir-icon.png" alt="logo elixir" title="elixir"/>
 </a>
 </div>
 
